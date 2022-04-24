@@ -27,6 +27,7 @@ The current CPU schedulers include: First come first serve, Shorstest Job First 
 
 ## Development:
 All contributions are welcome. I will respond and gladly review any pull requests or issues that you may have. Feel free to [open an issue](https://github.com/kearkyle/CPU-Schedulers/issues) for any issues that you may find.
+Take a look on the [contributing guidelines](https://github.com/kearkyle/CPU-Schedulers/blob/master/contributing.md) to start with contributions.
 
 ## Running code
 To run the code, on Linux terminal type:
