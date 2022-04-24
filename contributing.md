@@ -1,5 +1,5 @@
 # Contributing guide:
-Thanks for investing your time on contributing to this project. All contributions are welcome and can be reflected based on this [guide]()  
+Thanks for investing your time on contributing to this project. All contributions are welcome and can be reflected based on this [guide](https://github.com/kearkyle/CPU-Schedulers/blob/master/contributing.md)  
 
 ## To get you started:
 For new contributors, please take a look at the [README](https://github.com/kearkyle/CPU-Schedulers/blob/master/README.md) for installation guide and running code.  
