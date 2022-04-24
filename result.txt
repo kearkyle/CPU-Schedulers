@@ -1,0 +1,3 @@
+Average wait time for FCFS: 26.375
+Average wait time for SJF preemptive: 17.625
+Thus, the Shortest Job First Preemptive policy results the minimum average waiting time: 17.625
